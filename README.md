@@ -2,7 +2,7 @@
 
 ## Demo 🌐
 
-You can see the page in action [here]([https://bit.ly/3NQpizw](https://coinbase-design-ten.vercel.app/)).
+You can see the page in action [here]([https://coinbase-design-ten.vercel.app/]).
 
 This project aims to create a responsive design of a page similar to Coinbase using a Figma template. The goal is to recreate the interface and user experience of the Coinbase platform, which is a well-known cryptocurrency exchange platform.
 
@@ -26,7 +26,7 @@ This project aims to create a responsive design of a page similar to Coinbase us
 
 ## Demo 🌐
 
-Puedes ver la página en acción [aquí]([https://bit.ly/3NQpizw](https://coinbase-design-ten.vercel.app/)).
+Puedes ver la página en acción [aquí]([https://coinbase-design-ten.vercel.app/]).
 
 Este proyecto tiene como objetivo crear un diseño responsivo de una página similar a Coinbase utilizando una plantilla de Figma. El objetivo es recrear la interfaz y la experiencia de usuario de la plataforma Coinbase, que es una plataforma de intercambio de criptomonedas muy conocida.
 
